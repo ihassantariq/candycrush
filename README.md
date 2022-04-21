@@ -1,1 +1,1 @@
-# Canday Crush application built for university project.
+Canday Crush application built for university project course project. 
